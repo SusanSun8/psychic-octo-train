@@ -3,7 +3,7 @@
 ## Installation
 
 1. python setup.py install
-2. Be Happy 
+2. be Happy 
 
 ## Requirements
 
